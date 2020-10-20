@@ -1,5 +1,5 @@
 本项目源码来自于：https://github.com/google-research/albert
-仅用于学习ALBERT，添加部分注释，方便以复习！请勿做其它用途！
+仅用于学习ALBERT，添加部分注释，方便以后复习！请勿做其它用途！
 
 ALBERT
 ======
